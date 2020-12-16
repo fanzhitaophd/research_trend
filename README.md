@@ -6,10 +6,14 @@ Main topics
   * Face quality 
   * Face anti-spoofing
   * Face detection 
-  * 
+  * Face landmarks 
+  * Face 3D  
 * General 
   * Classificaton 
   * Object detecton 
   * Segmentation 
-
+* 3D 
+  * 3D foot 
+  * 3D body 
+  * 3D head 
 
